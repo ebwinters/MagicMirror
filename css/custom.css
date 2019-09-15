@@ -9,6 +9,11 @@
  * Changes to this files will be ignored by GIT. *
  *****************************************************/
 
- body {
+body {
  	
- }
+}
+
+.region.top.left {
+    padding-left: 20%;
+    padding-top: 20%;
+}
