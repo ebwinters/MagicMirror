@@ -15,5 +15,10 @@ body {
 
 .region.top.left {
     padding-left: 20%;
-    padding-top: 20%;
+    padding-top: 30%;
+}
+
+.region.bottom.center {
+    text-align: center;
+    padding-bottom: 15%;
 }

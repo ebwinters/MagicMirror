@@ -49,10 +49,10 @@ var config = {
 		// 		]
 		// 	}
 		// },
-		// {
-		// 	module: "compliments",
-		// 	position: "lower_third"
-		// },
+		{
+			module: "compliments",
+			position: "bottom_center"
+		},
 		// {
 		// 	module: "currentweather",
 		// 	position: "top_right",
