@@ -35,7 +35,10 @@ var config = {
 		},
 		{
 			module: "clock",
-			position: "top_left"
+			position: "top_left",
+			classes: "default",
+			config: {
+			}
 		},
 		// {
 		// 	module: "calendar",
@@ -49,10 +52,10 @@ var config = {
 		// 		]
 		// 	}
 		// },
-		{
-			module: "compliments",
-			position: "bottom_center"
-		},
+		// {
+		// 	module: "compliments",
+		// 	position: "bottom_center"
+		// },
 		// {
 		// 	module: "currentweather",
 		// 	position: "top_right",

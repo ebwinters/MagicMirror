@@ -10,7 +10,7 @@
  *****************************************************/
 
 body {
- 	
+    zoom: 70%;
 }
 
 .region.top.left {
@@ -21,4 +21,5 @@ body {
 .region.bottom.center {
     text-align: center;
     padding-bottom: 15%;
+    font-size: 1px;
 }
