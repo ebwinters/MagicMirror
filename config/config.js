@@ -56,15 +56,19 @@ var config = {
 		// 	module: "compliments",
 		// 	position: "bottom_center"
 		// },
-		// {
-		// 	module: "currentweather",
-		// 	position: "top_right",
-		// 	config: {
-		// 		location: "New York",
-		// 		locationID: "",  //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-		// 		appid: "YOUR_OPENWEATHER_API_KEY"
-		// 	}
-		// },
+		{
+			module: "currentweather",
+			position: "top_right",
+			config: {
+				location: "College Park, US",
+				locationID: "",  //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
+				appid: "e9deba01893cc7d6245995215e53ca8a",
+				units: "imperial",
+				timeFormat: 12,
+				showPeriod: true,
+				showHumidity: true,
+			}
+		},
 		// {
 		// 	module: "weatherforecast",
 		// 	position: "top_right",

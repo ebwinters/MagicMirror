@@ -10,7 +10,7 @@
  *****************************************************/
 
 body {
-    zoom: 70%;
+    zoom: 50%;
 }
 
 .region.top.left {
@@ -18,8 +18,8 @@ body {
     padding-top: 20%;
 }
 
-.region.bottom.center {
-    text-align: center;
-    padding-bottom: 15%;
-    font-size: 1px;
+.region.top.right {
+    padding-right: 20%;
+    padding-top: 20%;
 }
+
